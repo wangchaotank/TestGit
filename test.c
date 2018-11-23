@@ -2,13 +2,13 @@
 #include "check.h"
 
 // New BranchC 
-// Chang 2
+// Chang 3
 
 int main(){
 
-int i = 3;
+int i = 1;
 
-for(i = 0; i < 100; i++) {
+for(i = 1; i < 100; i++) {
 i += i; 
 }
 
