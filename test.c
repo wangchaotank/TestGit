@@ -1,5 +1,7 @@
 #include "stdio.h"
 
+#define justtest 'B'
+
 int main(){
 
 int i = 0;
