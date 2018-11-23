@@ -1,4 +1,3 @@
-#include "stdio.h"
 #include "check.h"
 
 bool check(int x){
